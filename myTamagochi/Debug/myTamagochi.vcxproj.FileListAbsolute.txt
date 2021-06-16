@@ -1,0 +1,13 @@
+D:\myTamagochi\myTamagochi\Debug\myTamagochi.vcxprojAssemblyReference.cache
+D:\myTamagochi\myTamagochi\Debug\myTamagochi.bird.resources
+D:\myTamagochi\myTamagochi\Debug\myTamagochi.fish.resources
+D:\myTamagochi\myTamagochi\Debug\myTamagochi.mlekop.resources
+D:\myTamagochi\myTamagochi\Debug\myTamagochi.MyForm.resources
+D:\myTamagochi\myTamagochi\Debug\myTamagochi.nasik.resources
+D:\myTamagochi\myTamagochi\Debug\myTamagochi.reg.resources
+D:\myTamagochi\myTamagochi\Debug\myTamagochi.vibor.resources
+D:\myTamagochi\myTamagochi\Debug\myTamagochi.vcxproj.GenerateResource.cache
+D:\myTamagochi\myTamagochi\Debug\myTamagochi.smert.resources
+D:\myTamagochi\myTamagochi\Debug\myTamagochi.rod.resources
+D:\myTamagochi\myTamagochi\Debug\myTamagochi.datebase.resources
+D:\myTamagochi\myTamagochi\Debug\myTamagochi.regadm.resources

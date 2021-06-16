@@ -1,0 +1,83 @@
+  myTamagochi.bird.resources - Embedded, ContainedInManifestFile, 
+  myTamagochi.datebase.resources - Embedded, ContainedInManifestFile, 
+  myTamagochi.fish.resources - Embedded, ContainedInManifestFile, 
+  myTamagochi.mlekop.resources - Embedded, ContainedInManifestFile, 
+  myTamagochi.MyForm.resources - Embedded, ContainedInManifestFile, 
+  myTamagochi.nasik.resources - Embedded, ContainedInManifestFile, 
+  myTamagochi.reg.resources - Embedded, ContainedInManifestFile, 
+  myTamagochi.regadm.resources - Embedded, ContainedInManifestFile, 
+  myTamagochi.rod.resources - Embedded, ContainedInManifestFile, 
+  myTamagochi.smert.resources - Embedded, ContainedInManifestFile, 
+  myTamagochi.vibor.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly myTamagochi, Version=0.0.*, Culture=Инвариантный язык (Инвариантная страна): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class myTamagochi.smert: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class myTamagochi.bird: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class myTamagochi.datebase: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class myTamagochi.regadm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class myTamagochi.mlekop: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class myTamagochi.fish: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class myTamagochi.nasik: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class myTamagochi.rod: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class myTamagochi.vibor: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class myTamagochi.die: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class myTamagochi.reg: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class myTamagochi.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Button button1 : Public
+    System.Windows.Forms.Label label3 : Public
+    System.Windows.Forms.Label label2 : Public
+    System.Windows.Forms.TextBox textBox2 : Public
+    System.Windows.Forms.TextBox textBox1 : Public
+    System.Windows.Forms.Label label1 : Public
+    System.Windows.Forms.Button button2 : Public
+    System.Windows.Forms.Label label4 : Public
+    System.Windows.Forms.MenuStrip menuStrip1 : Public
+    System.Windows.Forms.ToolStripMenuItem настройкиToolStripMenuItem : Public
+    System.Windows.Forms.ToolStripMenuItem языкToolStripMenuItem : Public
+    System.Windows.Forms.ToolStripMenuItem русскийToolStripMenuItem : Public
+    System.Windows.Forms.ToolStripMenuItem английскийToolStripMenuItem : Public
+    System.Windows.Forms.ToolStripMenuItem цветToolStripMenuItem : Public
+    System.Windows.Forms.ToolStripMenuItem белыйToolStripMenuItem : Public
+    System.Windows.Forms.ToolStripMenuItem черныйToolStripMenuItem : Public
+    System.Windows.Forms.ToolStripMenuItem красныйToolStripMenuItem : Public
+    System.Windows.Forms.ToolStripMenuItem выходToolStripMenuItem : Public
+  Methods:
+    цветToolStripMenuItem_Click(Object, EventArgs): PrivateScope, Public, HideBySig

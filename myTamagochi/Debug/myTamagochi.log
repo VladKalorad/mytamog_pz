@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+D:\myTamagochi\myTamagochi\files.h(196): warning C4715: files::check: значение возвращается не при всех путях выполнения
+  bird.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  myTamagochi.vcxproj -> D:\myTamagochi\Debug\myTamagochi.exe
